@@ -1,70 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+=<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fintwit Combined Feed - All Users (Last 72h)</title>
-    <description>Latest posts from Finnish and international investors on X • Auto-updated via n8n + Grok</description>
+    <title>Fintwit Combined Feed - All Users</title>
+    <description>Latest posts from Finnish & international investors (Last 72h) • Updated daily</description>
     <link>https://github.com/jaspermikael97-prog/twitterfeed</link>
-    <atom:link href="https://raw.githubusercontent.com/jaspermikael97-prog/twitterfeed/main/fintwit-feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 15 May 2026 13:55:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 11:01:03 GMT</lastBuildDate>
     <language>fi-en</language>
-
-    <!-- Recent Real Posts -->
-
-    <item>
-      <title>@JarmoFriman - Japanin korot</title>
-      <description>Korko on rahan hinta. Valtion velan määrä vaatii korkeampaa hintaa. Sama probleemi jenkillä.</description>
-      <pubDate>Fri, 15 May 2026 07:27:36 GMT</pubDate>
-      <link>https://x.com/JarmoFriman/status/2055188333496524948</link>
-      <guid>https://x.com/JarmoFriman/status/2055188333496524948</guid>
-    </item>
-
-    <item>
-      <title>@JarmoFriman - Kulta ja hopea alas</title>
-      <description>Kulta ja hopea rajusti alas. Korot ja inflaatio nousussa. Warsh raapii päätään.</description>
-      <pubDate>Fri, 15 May 2026 07:01:42 GMT</pubDate>
-      <link>https://x.com/JarmoFriman/status/2055181815514546673</link>
-      <guid>https://x.com/JarmoFriman/status/2055181815514546673</guid>
-    </item>
-
-    <item>
-      <title>@samimiettinen - Velkajarrusopimus</title>
-      <description>Velkajarrusopimus voi olla Suomen finanssipoliittinen käännekohta.</description>
-      <pubDate>Thu, 14 May 2026 20:42:57 GMT</pubDate>
-      <link>https://x.com/samimiettinen/status/2055026101185904769</link>
-      <guid>https://x.com/samimiettinen/status/2055026101185904769</guid>
-    </item>
-
-    <item>
-      <title>@Alexsei88 - Stopparit on pahoja</title>
-      <description>Ai ai, stopparit on pahoja. 😄 #Tungsten</description>
-      <pubDate>Fri, 15 May 2026 06:41:59 GMT</pubDate>
-      <link>https://x.com/Alexsei88/status/2055176853082521673</link>
-      <guid>https://x.com/Alexsei88/status/2055176853082521673</guid>
-    </item>
-
-    <item>
-      <title>@hissipoika - Kuutti huutarissa</title>
-      <description>Kuutti huutarissa. Shorttaajat:</description>
-      <pubDate>Fri, 15 May 2026 07:08:54 GMT</pubDate>
-      <link>https://x.com/hissipoika/status/2055183623775523275</link>
-      <guid>https://x.com/hissipoika/status/2055183623775523275</guid>
-    </item>
-
-    <item>
-      <title>@PasiHavia - Datakeskus vs ydinvoima</title>
-      <description>Yhdysvalloissa ihmiset ottavat mielummin naapuriksi ydinvoimalaitoksen kuin datakeskuksen.</description>
-      <pubDate>Fri, 15 May 2026 07:44:35 GMT</pubDate>
-      <link>https://x.com/PasiHavia/status/2055192605831369173</link>
-      <guid>https://x.com/PasiHavia/status/2055192605831369173</guid>
-    </item>
-
-    <item>
-      <title>@Alexsei88 - Trumpin Kiinan vierailu</title>
-      <description>Trumpin Kiinan vierailu + Kiinan hintojen laskut -40%. Kyllä se sijoittajia ahdistaa.</description>
-      <pubDate>Fri, 15 May 2026 05:07:07 GMT</pubDate>
-      <link>https://x.com/Alexsei88/status/2055152977367695730</link>
-      <guid>https://x.com/Alexsei88/status/2055152977367695730</guid>
-    </item>
 
   </channel>
 </rss>
