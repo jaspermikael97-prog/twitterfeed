@@ -1,11 +1,20 @@
-=<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fintwit Combined Feed - All Users</title>
-    <description>Latest posts from Finnish & international investors (Last 72h) • Updated daily</description>
+    <description>Latest posts from Finnish and international investors on X (Last 72 hours)</description>
     <link>https://github.com/jaspermikael97-prog/twitterfeed</link>
-    <lastBuildDate>Fri, 15 May 2026 10:21:46 GMT</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/jaspermikael97-prog/twitterfeed/main/fintwit-feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 May 2026 13:30:00 GMT</lastBuildDate>
     <language>fi-en</language>
+
+    <item>
+      <title>Feed Updated Successfully</title>
+      <description>The automated feed is working. This is a test post. Real posts will appear after the next n8n run.</description>
+      <pubDate>Fri, 15 May 2026 13:30:00 GMT</pubDate>
+      <link>https://github.com/jaspermikael97-prog/twitterfeed</link>
+      <guid>https://github.com/jaspermikael97-prog/twitterfeed</guid>
+    </item>
 
   </channel>
 </rss>
